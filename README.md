@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at "Veermata Jijabai Technological Institute, Mumbai"<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🎓B.Tech Undergrad at Veermata Jijabai Technological Institute, Mumbai<br>
 
 
 ## 🌐 Socials:
