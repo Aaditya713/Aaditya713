@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓B.Tech Undergrad at Veermata Jijabai Technological Institute, Mumbai<br>
 
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=_aadityapatil&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadityapatil_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadityapatil07) 
